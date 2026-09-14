@@ -4,7 +4,7 @@ A free, student-run textbook exchange board for UT Dallas — post a book you're
 selling, or a book you're looking for, and connect directly with another Comet
 to work out the trade.
 
-**Live site:** _add your GitHub Pages URL here after deploying_
+**Live site:** https://danielchock.github.io/comet-book-swap/
 
 ## The problem
 
